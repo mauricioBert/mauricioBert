@@ -9,5 +9,4 @@ Seja Muito Bem vindo ao meu GitHub
   <img align="center" alt="Mauri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-- ⚡ Fun fact: ...
--->
+

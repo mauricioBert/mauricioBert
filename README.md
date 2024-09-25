@@ -1,5 +1,5 @@
-# Seja Muito Bem vindo ao meu GitHub
- Olá, Eu sou o Mauricio Bertoldo!
+# Seja Muito Bem vindo ao meu GitHub!
+ Olá, Eu sou o Mauricio Bertoldo.
 
 <img align="right" src="banner.webp" widht ="325px">
 <div style="display: inline_block"><br>

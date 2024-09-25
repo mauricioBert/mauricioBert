@@ -15,7 +15,7 @@
    </a>
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Sou desenvolvedor front-end Junior, amo programação, e participei do [1° Hackatur do Vale](https://www.cps.sp.gov.br/alunos-de-registro-vencem-hackathon-sobre-turismo/).
 
 - ❤ Estudante Front-end
 - 👩‍💻 Aprendendo algo sobre design

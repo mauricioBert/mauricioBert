@@ -11,7 +11,7 @@
      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
    </a>
    <a href = "https://devbook.app/editor/mauriciobertoldodeoliveira">
-     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+     <img src="https://github.com/mauricioBert/mauricioBert/blob/main/Group%201devbook%20(1).svg" alt="Twitter Badge" style="height:28px"/>
    </a>
 </div>
 

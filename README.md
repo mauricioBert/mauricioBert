@@ -33,8 +33,8 @@ Sou desenvolvedor front-end Junior, amo programação, e participei do [1° Hack
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciobert&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=mauriciobert&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciobert&show_icons=true&theme=bear&count_private=true&title_color='#3FB6D3'"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=mauriciobert&show_icons=true&show_icons=true&theme=bear&count_private=true&title_color='#3FB6D3'" />
 </div>
 
 

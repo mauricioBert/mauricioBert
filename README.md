@@ -15,7 +15,7 @@
    </a>
 </div>
 
-Sou desenvolvedor front-end Junior, amo programação, e participei do [1° Hackatur do Vale](https://www.cps.sp.gov.br/alunos-de-registro-vencem-hackathon-sobre-turismo/).
+Sou desenvolvedor front-end Junior, amo programação, e participei do [1° Hackatur do Vale](https://www.cps.sp.gov.br/tag/1o-hackatur-vale-do-ribeira/).
 
 - ❤ Estudante Front-end
 - 👩‍💻 Aprendendo algo sobre design

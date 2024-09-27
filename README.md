@@ -1,8 +1,8 @@
-# Seja Muito Bem vindo ao meu GitHub!
- Olá, Eu sou o Mauricio Bertoldo.
+# Welcome to my GitHub!
+ Hello, I'm Mauricio Bertoldo.
 
 <img align="right" src="banner.webp" widht ="325px">
-# Muito bom ver você por aqui!
+# Great to see you here!
   <div id="badges">
    <a href = "https://www.linkedin.com/in/mauricio-bertoldo-de-oliveira">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,10 +15,10 @@
    </a>
 </div>
 
-Sou desenvolvedor front-end Junior, amo programação, e participei do [1° Hackatur do Vale](https://www.cps.sp.gov.br/tag/1o-hackatur-vale-do-ribeira/).
+I'm a Junior front-end developer, I love programming, and I participated in [1st Hackatur do Vale](https://www.cps.sp.gov.br/tag/1o-hackatur-vale-do-ribeira/).
 
-- ❤ Estudante Front-end
-- 👩‍💻 Aprendendo algo sobre design
+- ❤ Front-end student
+- 👩‍💻 Learning something about design
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
